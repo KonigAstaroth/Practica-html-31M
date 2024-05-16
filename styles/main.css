@@ -1,0 +1,23 @@
+.contenedor_perfil{
+    border: 2px solid black; 
+    border-radius: 20px;
+    padding: 10px;
+    display: flex; 
+    flex-direction: column;
+}
+
+.imagen_perfil{
+    height: 200px; width: 200px; border-radius: 50%;
+    justify-self: center;
+    align-self: center;
+
+}
+
+p{
+    padding: 10px;
+}
+
+ul li{
+    font-size: x-large;
+    color: crimson;
+}
