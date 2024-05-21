@@ -77,15 +77,18 @@ h3{
     border-radius: 20px;
     height: 100px;
     width: 200px;
-    position: relative;
-    align-content: center;
-    align-self: center;
-    justify-self: center;
-    top: 100px;
-    left: 300px;
+    justify-content: center;
+    align-items: center;
     font-size: 25px;
     font-family: "Arial bold";
     color: #ffff;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
 }
 
 header{
